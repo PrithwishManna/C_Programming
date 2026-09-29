@@ -1,0 +1,4 @@
+int generate();
+
+void count();
+
